@@ -27,7 +27,7 @@
 
 <div>
   <a href="https://www.youtube.com/watch?v=KJ-x_fkpHKM-g" target="_blank">
-    <img src="https://i.ibb.co/FbmSwFMG/x3.png" alt="TicTacToe Demo" width="480">
+    <img src="https://github.com/user-attachments/assets/e871b196-b1ee-4bdf-aa73-88011abd51a7" alt="TicTacToe Demo" width="480">
   </a>
 </div>
 
@@ -76,24 +76,88 @@ Below are complete interface screenshots from the Tic Tac Toe application, c
 
 <table>
   <tr>
-    <td colspan="2">
-      <img src="https://i.ibb.co/Kzy6hKBC/x1.png" width="800"/>
-    </td>
+    <td><img src="https://github.com/user-attachments/assets/197ad824-4ac5-4bdb-86bd-082ed33e2940" width="700"/></td>
   </tr>
   <tr>
-    <td><img src="https://i.ibb.co/Pvq7jfWL/x2.png" width="400"/></td>
-    <td><img src="https://i.ibb.co/JwKHSncF/x3.png" width="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/12167c2f-850c-4cdc-b89d-257838100d88" width="700"/></td>
   </tr>
   <tr>
-    <td><img src="https://i.ibb.co/DfT5p9h0/x4.png" width="400"/></td>
-    <td><img src="https://i.ibb.co/qMn7rMHH/x5.png" width="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/0ddc32c6-4b5d-4a45-bbab-e0a033067463" width="700"/></td>
   </tr>
   <tr>
-    <td><img src="https://i.ibb.co/35Q6ZKn9/x6.png" width="400"/></td>
-    <td><img src="https://i.ibb.co/tgDS7Nd/x7.png" width="400"/></td>
+    <td><img src="https://github.com/user-attachments/assets/32980897-b264-4709-8350-d668aecaffd3" width="700"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/3bacccce-7b36-46bd-b86e-a46ce692af69" width="700"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/4b941c5c-5b83-497e-aa40-b33e883691f2" width="700"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/74737a11-ad00-4b51-8b47-cb7b0b07c1d8" width="700"/></td>
   </tr>
 </table>
 
 > 🖼️ This gallery includes all major screens and game workflows for full visual context.
+
+---
+
+## 🚀 Installation
+
+1. **Download the Installer**  
+   Grab `TicTacToe_Setup.exe` from the [Releases](https://github.com/YOUR_USERNAME/tic-tac-toe/releases/latest) page.
+
+2. **Run the Installer**  
+   Double-click `TicTacToe_Setup.exe` and follow the prompts. It installs the game, creates Desktop/Start Menu shortcuts, and requires no further setup.
+
+3. **Play the Game**  
+   Launch from your shortcut, select a mode, and enjoy!
+
+> 💡 No additional frameworks or manual configuration required.
+
+---
+
+## 🧑‍💻 Developer Notes
+
+Contributors and curious developers can find more details here:
+
+- **Solution & Project:** `Tic Tac Toe.sln` and `Tic Tac Toe.vbproj` target .NET Framework 4.x  
+- **Key Code Files:**  
+  - `SplashScreen.vb` – Startup animation  
+  - `HomeForm.vb` – Mode selection & name input  
+  - `PlayForm.vb` – Game logic, AI, win/draw detection  
+  - `VariableModule.vb` – Shared player names and flags  
+- **Installer:** Open `TicTacToe_Installer.iss` in Inno Setup Compiler to rebuild the setup
+
+> ⚠️ End users do not need this section. This information is intended for developers who wish to explore the source code, understand the game flow, or rebuild the setup installer manually.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+If you'd like to improve this Tic Tac Toe game, fix bugs, or add new features:
+
+- Fork the repository  
+- Create a new branch for your changes  
+- Submit a pull request with a clear explanation  
+
+You can also open issues for suggestions or questions.  
+Thank you for supporting simple and fun open-source projects!
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).  
+You may use and modify this code for personal or educational purposes—see `LICENSE` for full details.
+
+---
+
+## ©️ Copyright
+
+© 2025 Prashanth Kumar G. All rights reserved.  
+Unauthorized commercial use or redistribution is prohibited without prior written consent.
 
 ---
