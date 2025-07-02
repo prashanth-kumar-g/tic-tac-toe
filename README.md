@@ -76,7 +76,9 @@ Below are complete interface screenshots from the Tic Tac Toe application, c
 
 <table>
   <tr>
-    <td><img src="https://i.ibb.co/Kzy6hKBC/x1.png" width="800"/></td>
+    <td colspan="2">
+      <img src="https://i.ibb.co/Kzy6hKBC/x1.png" width="800"/>
+    </td>
   </tr>
   <tr>
     <td><img src="https://i.ibb.co/Pvq7jfWL/x2.png" width="400"/></td>
