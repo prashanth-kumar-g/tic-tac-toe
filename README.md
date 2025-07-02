@@ -4,16 +4,16 @@
 
 📋 Table of Contents
 
-- [Overview](#overview)  
-- [Demo Video](#demo-video)  
-- [Tech Stack](#tech-stack)  
-- [Features](#features)  
-- [Screenshots](#screenshots)  
-- [Installation](#installation)  
-- [Developer Notes](#developer-notes)  
-- [Contributing](#contributing)  
-- [License](#license)  
-- [Copyright](#copyright)
+- [Overview](#-overview)  
+- [Demo Video](#-demo-video)  
+- [Tech Stack](#-tech-stack)  
+- [Features](#-features)  
+- [Screenshots](#%EF%B8%8F-screenshots)  
+- [Installation](#-installation)  
+- [Developer Notes](#-developer-notes)  
+- [Contributing](#-contributing)  
+- [License](#-license)  
+- [Copyright](#%EF%B8%8F-copyright)
 
 ---
 
