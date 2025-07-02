@@ -26,14 +26,14 @@
 ## 🎥 Demo Video
 
 <div>
-  <a href="https://www.youtube.com/watch?v=KJ-x_fkpHKM-g" target="_blank">
+  <a href="https://www.youtube.com/watch?v=KJ-x_fkpHKM" target="_blank">
     <img src="https://github.com/user-attachments/assets/e871b196-b1ee-4bdf-aa73-88011abd51a7" alt="TicTacToe Demo" width="480">
   </a>
 </div>
 
 > ▶️ Click the thumbnail above to watch the full Tic Tac Toe demo on YouTube.
 
-📘 This demo video provides a complete walkthrough of Tic Tac Toe, covering game launch, mode selection (Human vs Human & Human vs Computer), player name entry, randomized turn order and colors, in-game play with win/draw detection, and using the Restart and Back controls. If you’re new to the project or need a quick overview, please watch this video before installing.
+📘 This demo video provides a complete walkthrough of Tic Tac Toe, covering game launch, mode selection (Human vs Human & Human vs Computer), player name entry, randomized turn order and colors, in‑game play with win/draw detection, and using the Restart and Back controls. If you’re new to the project or need a quick overview, please watch this video before installing.
 
 ---
 
@@ -105,7 +105,7 @@ Below are complete interface screenshots from the Tic Tac Toe application, c
 ## 🚀 Installation
 
 1. **Download the Installer**  
-   Grab `TicTacToe_Setup.exe` from the [Releases](https://github.com/YOUR_USERNAME/tic-tac-toe/releases/latest) page.
+   Grab `TicTacToe_Setup.exe` from the [Releases](https://github.com/prashanth-kumar-g/tic-tac-toe/releases/tag/v1.0.0/TicTacToe_Setup.exe) page.
 
 2. **Run the Installer**  
    Double-click `TicTacToe_Setup.exe` and follow the prompts. It installs the game, creates Desktop/Start Menu shortcuts, and requires no further setup.
