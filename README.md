@@ -150,7 +150,7 @@ Thank you for supporting simple and fun open-source projects!
 
 ## 📜 License
 
-This project is licensed under the [MIT License](LICENSE).  
+This project is licensed under the [CC BY-NC 4.0 License](LICENSE).  
 You may use and modify this code for personal or educational purposes—see `LICENSE` for full details.
 
 ---
